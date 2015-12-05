@@ -34,5 +34,6 @@
         <attr name="dsb_indicatorFormatter" format="string|reference"/>
         <attr name="dsb_rippleColor" format="color|reference"/>
         <attr name="dsb_indicatorPopupEnabled" format="boolean"/>
+        <attr name="dsb_sizeRatio" format="integer"/>
     </declare-styleable>
 </resources>
