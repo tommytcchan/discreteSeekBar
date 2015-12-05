@@ -36,6 +36,7 @@
         app:dsb_progressColor="@color/my_progress_color"
         app:dsb_rippleColor="#FF7788FF"
         app:dsb_indicatorColor="@color/my_floater_color"
+        app:dsb_sizeRatio="2"
         app:dsb_indicatorFormatter="\\o/ %d"/>
 
     <ScrollView
